@@ -1,0 +1,22 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+.icon{
+    align-items: center;
+    width:30px;
+    background-color: green;
+    margin-left: 10px;
+    margin-top: 3px;
+    color:white;
+    padding-left: 5px;
+  }
+  .cpy{
+    height: 40px;
+    width: 100vw;
+    color: rgb(163, 157, 157);
+  }
+ 
